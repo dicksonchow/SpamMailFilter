@@ -1,1 +1,5 @@
 *.txt
+*.class
+.idea/libraries/Maven__org_nd4j_nd4j_native_linux_x86_64_0_7_0.xml
+src/main/resources/
+target
